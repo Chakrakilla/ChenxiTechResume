@@ -24,9 +24,6 @@ I completed the following courses in the <a href="https://lab.github.com/courses
 <li>Create a release based workflow</li>
 </ul>
 <br>
-<img src="githubphoto.png" alt="Github photo">
-<br>
-<br>
 </details>
 
 
@@ -46,19 +43,10 @@ I completed the following courses in the <a href="https://lab.github.com/courses
 <li>Developer API</li>
 <li>Mobile App</li>
 </ul>
-<br>
-<img src="MonicaMayPowerBI.png" alt="Power BI photo">
-<br>
 </details>
 
 
 <details><summary>Power BI Dashboard</summary>
-<br>
-Using the knowledge I gained from completing the Power BI edX course, I created a dashboard using the <a href="https://docs.microsoft.com/en-us/power-bi/sample-datasets#the-power-bi-samples-as-excel-files">Procurement Analysis sample data</a> provided by Microsoft. Click the following link to watch a demonstration of my Power BI dashboard: <a href="https://youtu.be/q93dXd0959U">Monica May Procurement Analysis Dashboard</a>
-<br>
-<br>
-<img src="Monica May Power BI dashboard.png" alt="Power BI dashboard photo">
-<br>
 <br>
 </details>
 
@@ -66,9 +54,6 @@ Using the knowledge I gained from completing the Power BI edX course, I created 
 <details><summary>VPN</summary>
 <br>
 I configured my own IPSEC VPN in the cloud using the <a href="https://github.com/trailofbits/algo">Algo VPN</a> Ansible scripts provided by Trail of Bits. With the help of this tutorial, I successfully deployed the Algo server, configured the VPN clients, set up an SSH tunnel, and added and removed users. 
-<br>
-<br>
-<img src="algo proof 1.png" alt="Algo VPN photo"> 
 <br>
 <br>
 </details>
