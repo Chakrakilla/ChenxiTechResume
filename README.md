@@ -85,16 +85,10 @@ I configured my own IPSEC VPN in the cloud using the <a href="https://github.com
   <li>Serverless Computing - Lambda</li>
 </ul>
 <br>
-<img src="AWSCertificate.png" alt="AWS photo">
-<br>
-<br>
 </details>
 
 
 <details><summary>Linux</summary>
-<br>
-  I completed the LPI Linux Essentials course on <a href="https://linuxacademy.com/">Linux Academy</a>. These courses gave me an introduction to the Linux operating system and the Linux kernel, as well as the Linux command line syntax. 
-<br>
 <br>  
 
 <h4>Topics:</h4>
@@ -118,9 +112,5 @@ I configured my own IPSEC VPN in the cloud using the <a href="https://github.com
 <li>Special Directories and Files</li> 
 </ul>
 
-<h4> Certificate: </h4>
-LPI Linux Essentials Course Completion Certificate:
-<img src="MonicaMayCertificate.png" alt="LPI Linux Essentials Course Completion">
-<br>
 </details>
 
