@@ -1,37 +1,141 @@
-Chenxi Wu - Technical Resume
-Email: chw5644@utulsa.edu 
-I am a MBA student at the University of Tulsa. I have completed this technical resume as a course requirement for my MBA. 
+<h1>Technical Skills and Certifications</h1>
+
+Listed below are the technical skills I acquired as a MBA Candidate at The University of Tulsa.
+
+<h2>Technical Skills</h2>
+<details><summary>GitHub Learning Lab</summary>
+<br>
+I completed the following courses in the <a href="https://lab.github.com/courses">GitHub Learning Lab</a>. These courses taught me how to stand up static pages, create and manage pull requests, facilitate collaboration, and more. 
+<br>
+  
+<h4>Courses:</h4>
+<ul>
+<li>Introduction to GitHub</li>
+<li>Communicating using Markdown</li>
+<li>Introduction to HTML</li>
+<li>GitHub Pages</li>
+<li>Managing merge conflicts</li>
+<li>Community Starter Kit</li>
+<li>Uploading your project to GitHub</li>
+<li>Getting started with GitHub Apps</li>
+<li>Migrating your repository to GitHub</li>
+<li>Reviewing pull requests</li>
+<li>Securing your workflows</li>
+<li>Create a release based workflow</li>
+</ul>
+<br>
+<img src="githubphoto.png" alt="Github photo">
+<br>
+<br>
+</details>
 
 
-Education
-Oklahoma State University
-August 2008 - 2012
-Major: Business Administration
-Minor: Management Information Systems
-University of Tulsa 
-August 2018- Present
-Masters of Business Administration
+<details><summary>Power BI</summary>
+<br>
+ I auditted the <a href="https://www.edx.org/course/analyzing-and-visualizing-data-with-power-bi-0">Analyzing and Visualizing Data with Power BI</a> course on edX and completed the following courses. These courses taught me how to input data, add and modify elements on a dashboard, and transform and interpret different kinds of data. 
+<br>
+  
+<h4>Courses:</h4> 
+<ul>
+<li>Power BI Desktop Data Transformations</li>
+<li>Power BI Desktop Modelling</li>
+<li>Power BI Desktop Visualization</li>
+<li>Power BI Service</li>
+<li>Working with Excel</li>
+<li>Direct Connectivity</li>
+<li>Developer API</li>
+<li>Mobile App</li>
+</ul>
+<br>
+<img src="MonicaMayPowerBI.png" alt="Power BI photo">
+<br>
+</details>
 
-Skills
-##Github##
-- Fundamentals of distributed version control including creating, reviewing and approving pull requests.
-- An introduction to source code management including task management, bug tracking and documentation.
-- The use of Markdown and HTML to format webpages in order to display items held in Github repositories.
-- Review of workflow management including workflow automation through GitHub Apps and workflow security.
-##Power BI##
-- Importing datasets, defining data relationships, and editing queries.
-- Creating dynamic visualizations on customizable reports and dashboards.
-- Connecting to external data sources such as SQL on Azure and leveraging the capabilites of ESRI ArcGIS and R.
-- Configuring visualizations to be shared and consumed across multiple platforms.
-##PowerShell##
-- Formatting basic powershell commands for basic system management including an understanding of execution permissions and the powershell help system.
-- Constructing pipelines, variables and arrays to store outputs be used in other commands.
-- Introduction to scripting and process automation for system administration. 
-##Amazon Web Services##
-- Introduction to cloud concepts including exposure to feature sets available on the AWS platform. 
-- The benefits cost savings of moving to a AWS cloud environment with concepts such as: pay-as-you-go and elimination of large up-front capital needs. 
-- AWS’s ability to provide reliable and scalability platforms with built in redundancies to support business continuity efforts.
-- A review of the shared responsibility model for AWS security.
 
-##Linux##
-Introduction to the ubuntu Linux distribution including managing file systems, directories, permissions, & basic scripting.
+<details><summary>Power BI Dashboard</summary>
+<br>
+Using the knowledge I gained from completing the Power BI edX course, I created a dashboard using the <a href="https://docs.microsoft.com/en-us/power-bi/sample-datasets#the-power-bi-samples-as-excel-files">Procurement Analysis sample data</a> provided by Microsoft. Click the following link to watch a demonstration of my Power BI dashboard: <a href="https://youtu.be/q93dXd0959U">Monica May Procurement Analysis Dashboard</a>
+<br>
+<br>
+<img src="Monica May Power BI dashboard.png" alt="Power BI dashboard photo">
+<br>
+<br>
+</details>
+
+
+<details><summary>VPN</summary>
+<br>
+I configured my own IPSEC VPN in the cloud using the <a href="https://github.com/trailofbits/algo">Algo VPN</a> Ansible scripts provided by Trail of Bits. With the help of this tutorial, I successfully deployed the Algo server, configured the VPN clients, set up an SSH tunnel, and added and removed users. 
+<br>
+<br>
+<img src="algo proof 1.png" alt="Algo VPN photo"> 
+<br>
+<br>
+</details>
+
+
+<details><summary>Amazon Web Services (AWS)</summary>
+<br>
+  I completed the AWS Essentials - NEW course on <a href="https://linuxacademy.com/">Linux Academy</a>. These courses provided me with an introduction to Amazon's Identity Access Management, Elastic Compute Cloud, database services, Simple Notification System, Elastic Load Balancers, Auto Scaling, and Route 53. 
+<br>
+<br>
+
+<h4>Topics:</h4>
+<ul>
+  <li>AWS Essentials</li>
+  <li>Managing AWS Access with Users, Groups, and Roles</li>
+  <li>Identity and Access Management (IAM)</li>
+  <li>Networking Services and Connectivity</li>
+  <li>Virtual Private Cloud (VPC)</li>
+  <li>Compute Services</li>
+  <li>Elastic Cloud Compute (EC2)</li>
+  <li>Storage Services</li>
+  <li>Database Services</li>
+  <li>Monitoring, Alerts, and Notifications</li>
+  <li>Simple Notification Service (SNS)</li>
+  <li>Load Balancing, Elasticity, and Scalability</li>
+  <li>Elastic Load Balancer (ELB)</li>
+  <li>Auto Scaling</li>
+  <li>Route 53</li>
+  <li>Serverless Computing - Lambda</li>
+</ul>
+<br>
+<img src="AWSCertificate.png" alt="AWS photo">
+<br>
+<br>
+</details>
+
+
+<details><summary>Linux</summary>
+<br>
+  I completed the LPI Linux Essentials course on <a href="https://linuxacademy.com/">Linux Academy</a>. These courses gave me an introduction to the Linux operating system and the Linux kernel, as well as the Linux command line syntax. 
+<br>
+<br>  
+
+<h4>Topics:</h4>
+<ul>
+<li>The Linux Community and a Career in Open Source</li>
+<li>Linux Evolution and Popular Operating Systems</li>
+<li>How to Access a Linux Installation</li>
+<li>Major Open Source Applications</li>  
+<li>Understanding Open Source Software and Licensing</li> 
+<li>ICT Skills and Working in Linux</li>
+<li>Command Line Basics</li> 
+<li>Using Directories and Listing Files</li> 
+<li>Archiving Files on the Command Line</li> 
+<li>Searching and Extracting Data from Files</li> 
+<li>Turning Commands into a Script</li>
+<li>The Linux Operating System</li>
+<li>Security and File Permissions</li>
+<li>Basic Security and Identifying User Groups</li>
+<li>Creating Users and Groups</li> 
+<li>Managing File Permissions and Ownership</li> 
+<li>Special Directories and Files</li> 
+</ul>
+
+<h4> Certificate: </h4>
+LPI Linux Essentials Course Completion Certificate:
+<img src="MonicaMayCertificate.png" alt="LPI Linux Essentials Course Completion">
+<br>
+</details>
+
