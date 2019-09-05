@@ -1,4 +1,4 @@
-<h1>Technical Skills and Certifications</h1>
+<h1>Chenxi Wu Technical Skills and Certifications</h1>
 
 Listed below are the technical skills I acquired as a MBA Candidate at The University of Tulsa.
 
