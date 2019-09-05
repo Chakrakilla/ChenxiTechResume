@@ -1,5 +1,9 @@
 <h1>Chenxi Wu Technical Skills and Certifications</h1>
 
+<br>
+<img src="LinkedinProfile.jpg" alt="ProfilePic">
+<br>
+
 Listed below are the technical skills I acquired as a MBA Candidate at The University of Tulsa.
 
 <h2>Technical Skills</h2>
