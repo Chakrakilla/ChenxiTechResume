@@ -25,10 +25,10 @@ I completed the following courses in the <a href="https://lab.github.com/courses
 </ul>
 <br>
 <br>
-<img src="FirstDay.png" alt="Github FirstDay Photo">
+<img src="FirstDay.PNG" alt="Github FirstDay Photo">
 <br>
 <br>
-<img src="FirstWeek.png" alt="Github FirstWeek Photo">
+<img src="FirstWeek.PNG" alt="Github FirstWeek Photo">
 <br>
 </details>
 
