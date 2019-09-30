@@ -57,7 +57,21 @@ I completed the following courses in the <a href="https://lab.github.com/courses
 
 
 <details><summary>Power BI Dashboard</summary>
+<li>The first stumbling point I encountered during this training was in Section 2: Power BI Desktop Modeling. It is not apparent at the time you are during it but setting up all the relationships between the tables in the dataset is imperative as it will impact the answers you generate to complete the lab.</li>
+
+<li>Section 3: Power BI Desktop Visualization is the first time you begin to create reports and dashboards. I found it extremely helpful in this section to recreate the visuals you are quizzed on. The datasets for this are given to you in the prior section.</li>
+
+<li>Section 4: Working with the Power BI Service provides a very important discussion on how to edit the settings of certain features within your Microsoft Tenant. You are able to turn off the ability to export data to excel, create webpages, etc.</li>
+
+<li>In Section 5: Working with Excel, you may get an error when trying to complete the lab if you are not using Internet Explorer. In order to complete the lab you will need Silverlight installed in IE.</li>
+
+<li>Section 6: Organization Packs, Security and Groups has not kept up with Microsoft’s constantly changing application suite. The directions for the lab are no longer actuate, but the lab can still be completed. You can no longer create a group as per the directions, but you can use the app workspace to essential achieve the same goal. Here is a good resource for more information.</li>
+
+<li>Click below for a video recording of the final dashboard</li>
+
+<a href="https://www.youtube.com/watch?v=qSPVreD3jZo">SupplierQualityAnalysisVideo</a>
 <br>
+
 </details>
 
 
