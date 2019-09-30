@@ -52,6 +52,8 @@ I completed the following courses in the <a href="https://lab.github.com/courses
 <li>Direct Connectivity</li>
 <li>Developer API</li>
 <li>Mobile App</li>
+<h4> Course Completion: </h4>
+<img src="Completion.jpg" alt="PowerBI Course Completion">
 </ul>
 </details>
 
