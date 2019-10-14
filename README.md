@@ -136,6 +136,8 @@ I configured my own IPSEC VPN in the cloud using the <a href="https://github.com
 <li>Creating Users and Groups</li> 
 <li>Managing File Permissions and Ownership</li> 
 <li>Special Directories and Files</li> 
+<h4> Course Completion: </h4>
+<img src="Cert.pdf" alt="Linux LPI Completion">
 </ul>
 
 </details>
