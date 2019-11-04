@@ -109,6 +109,7 @@ I configured my own IPSEC VPN in the cloud using the <a href="https://github.com
   <li>Auto Scaling</li>
   <li>Route 53</li>
   <li>Serverless Computing - Lambda</li>
+  <img src="AWSCert.png" alt="AWS Essential Completion">
 </ul>
 <br>
 </details>
