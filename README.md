@@ -156,6 +156,6 @@ I configured my own IPSEC VPN in the cloud using the <a href="https://github.com
 <li>Creating scripts</li>
 <li>Automating tasks</li>  
 <li>Using PowerShell remoting</li> 
-
-
+<h4> Course Completion: </h4>
+<img src="Powershell.jpg" alt="Powershell Completion">
 </details>
