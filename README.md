@@ -138,7 +138,7 @@ I configured my own IPSEC VPN in the cloud using the <a href="https://github.com
 <li>Managing File Permissions and Ownership</li> 
 <li>Special Directories and Files</li> 
 <h4> Course Completion: </h4>
-<img src="LPI.jpg" alt="Linux LPI Completion">
+<img src="LPI.JPG" alt="Linux LPI Completion">
 </ul>
 
 </details>
@@ -157,5 +157,5 @@ I configured my own IPSEC VPN in the cloud using the <a href="https://github.com
 <li>Automating tasks</li>  
 <li>Using PowerShell remoting</li> 
 <h4> Course Completion: </h4>
-<img src="Powershell.jpg" alt="Powershell Completion">
+<img src="Powershell.JPG" alt="Powershell Completion">
 </details>
