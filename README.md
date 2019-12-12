@@ -143,3 +143,19 @@ I configured my own IPSEC VPN in the cloud using the <a href="https://github.com
 
 </details>
 
+<details><summary>Powershell</summary>
+<li>Completing the PowerShell 5 Essential Training through LinkedIn Learning helped expose me to the basics of utilizing cmdlets as an administrator to access and automate features of my Windows operating system. It emphasizes the importance of the "get-help" command in order to find useful assistance with syntax, module installation, csv and xml file imports and exports, script writing in ISE instead of in Notepad, etc. I also appreciated how the course covered how to set execution policies on the security side of things as well as an overview of variable and array creation. Courses completed include:</li>
+<li>Installing Windows Management Framework 5</li>
+<li>Running commands (cmdlets)</li>  
+<li>Discovering commands</li> 
+<li>Understanding cmdlet syntax</li>
+<li>Resolving terse commands</li>
+<li>Finding and using local modules</li>  
+<li>Working with files, printers, CSVs, and XML in the pipeline</li> 
+<li>Selecting, sorting, and filtering object data</li>
+<li>Creating scripts</li>
+<li>Automating tasks</li>  
+<li>Using PowerShell remoting</li> 
+
+
+</details>
